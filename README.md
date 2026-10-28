@@ -2,7 +2,7 @@
 
 Installers for Rough It, a selective edge distress effect for After Effects 2026 (development build).
 
-- [Mac (Apple silicon)](Rough-It-0.9.4-mac.zip)
-- [Windows (x64)](Rough-It-0.9.4-win.zip)
+- [Mac (Apple silicon)](Rough-It-0.9.7-mac.zip)
+- [Windows (x64)](Rough-It-0.9.7-win.zip)
 
-Each zip includes a Read Me with install steps.
+Each zip includes a Read Me with install steps. Earlier installers (0.9.4) are still here for reference.
